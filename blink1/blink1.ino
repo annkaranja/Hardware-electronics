@@ -1,4 +1,4 @@
-int REDLED = 5;
+int REDLED = 10;
 int pinpot = A0;
 int inputValue = 0;
 
